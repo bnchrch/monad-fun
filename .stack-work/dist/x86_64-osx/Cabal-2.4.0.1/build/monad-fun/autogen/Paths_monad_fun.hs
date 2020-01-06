@@ -30,7 +30,7 @@ version = Version [0,1,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/ben/Development/repos/personal/monad-fun/.stack-work/install/x86_64-osx/ee01546e1962cb65140a230ba51c40a9721c05077362ef3065df6a1b2ff4f439/8.6.5/bin"
-libdir     = "/Users/ben/Development/repos/personal/monad-fun/.stack-work/install/x86_64-osx/ee01546e1962cb65140a230ba51c40a9721c05077362ef3065df6a1b2ff4f439/8.6.5/lib/x86_64-osx-ghc-8.6.5/monad-fun-0.1.0.0-1HW5OPwU46UAZnY9f4cHir-monad-fun"
+libdir     = "/Users/ben/Development/repos/personal/monad-fun/.stack-work/install/x86_64-osx/ee01546e1962cb65140a230ba51c40a9721c05077362ef3065df6a1b2ff4f439/8.6.5/lib/x86_64-osx-ghc-8.6.5/monad-fun-0.1.0.0-4PPbME8CX87LOrekcXxLaq-monad-fun"
 dynlibdir  = "/Users/ben/Development/repos/personal/monad-fun/.stack-work/install/x86_64-osx/ee01546e1962cb65140a230ba51c40a9721c05077362ef3065df6a1b2ff4f439/8.6.5/lib/x86_64-osx-ghc-8.6.5"
 datadir    = "/Users/ben/Development/repos/personal/monad-fun/.stack-work/install/x86_64-osx/ee01546e1962cb65140a230ba51c40a9721c05077362ef3065df6a1b2ff4f439/8.6.5/share/x86_64-osx-ghc-8.6.5/monad-fun-0.1.0.0"
 libexecdir = "/Users/ben/Development/repos/personal/monad-fun/.stack-work/install/x86_64-osx/ee01546e1962cb65140a230ba51c40a9721c05077362ef3065df6a1b2ff4f439/8.6.5/libexec/x86_64-osx-ghc-8.6.5/monad-fun-0.1.0.0"

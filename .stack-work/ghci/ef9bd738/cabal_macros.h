@@ -22,17 +22,6 @@
   (major1) == 4 && (major2) == 12 && (minor) <= 0)
 #endif /* MIN_VERSION_base */
 
-/* package mtl-2.2.2 */
-#ifndef VERSION_mtl
-#define VERSION_mtl "2.2.2"
-#endif /* VERSION_mtl */
-#ifndef MIN_VERSION_mtl
-#define MIN_VERSION_mtl(major1,major2,minor) (\
-  (major1) <  2 || \
-  (major1) == 2 && (major2) <  2 || \
-  (major1) == 2 && (major2) == 2 && (minor) <= 2)
-#endif /* MIN_VERSION_mtl */
-
 /* tool gcc-4.2.1 */
 #ifndef TOOL_VERSION_gcc
 #define TOOL_VERSION_gcc "4.2.1"
@@ -111,8 +100,11 @@
 #endif /* MIN_TOOL_VERSION_runghc */
 
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "monad-fun-0.1.0.0-4PPbME8CX87LOrekcXxLaq-monad-fun"
+#define CURRENT_COMPONENT_ID "monad-fun-0.1.0.0-1HW5OPwU46UAZnY9f4cHir-monad-fun"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "0.1.0.0"
 #endif /* CURRENT_PACKAGE_VERSION */
+
+#undef CURRENT_PACKAGE_KEY
+#undef CURRENT_COMPONENT_ID
